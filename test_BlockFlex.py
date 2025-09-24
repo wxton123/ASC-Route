@@ -1,5 +1,5 @@
 import unittest
-from lib import  DataLoader
+from core import  DataLoader
 import seaborn as sns
 import random
 import matplotlib.pyplot as plt
