@@ -428,7 +428,7 @@ class TestBlockFLEX(unittest.TestCase):
                     plt.yticks(fontsize=14)
                     plt.xlabel("Time elapsed (sec)", fontsize=15)
                     plt.xticks(fontsize=14)
-                    plt.title("{},avb:{},src - dst: {}".format(cons,net_avb_ratio,e2e))
+                    plt.title("{}   ({} availability:{}%)".format(e2e,cons,net_avb_ratio*100))
                     plt.legend(title='',ncol=3)
                     plt.savefig(self.output_dir/"exp5-2-{}.png".format(idx))
                     idx+=1
