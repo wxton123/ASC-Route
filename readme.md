@@ -1,6 +1,7 @@
 # BlockFLEX: Artifact for Results Reproduction (Evaluation)
 
-This repository contains the artifact for the NSDI paper "**BlockFLEX: An Adaptive and Survivable Architecture with Hierarchical Routing for LEO Satellite Networks**". It is designed to facilitate the **reproduction of all figures and numerical results** presented in the paper.
+This repository contains the artifact for the paper "**Achieving Resilient and Efficient Routing via Adaptive Satellite Clustering for Mega-constellation
+Networks**". It is designed to facilitate the **reproduction of all figures and numerical results** presented in the paper.
 
 ## 📁 Repository Contents (Current - For Evaluation)
 
